@@ -1,1 +1,1 @@
-# qnngroup.github.io-djgraham
+# djgraham@qnn
